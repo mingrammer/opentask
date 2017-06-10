@@ -17,3 +17,4 @@ I'm so lazy. So I will publish a daily work list here
 - [2017.06.07 Wed](20170607.md) : :umbrella: (1/2, 50.00%)
 - [2017.06.08 Thu](20170608.md) : :umbrella: (1/2, 50.00%)
 - [2017.06.09 Fri](20170609.md) : :snowflake: (0/1, 0%)
+- [2017.06.10 Sat](20170610.md) : :sunny: (1/1, 100%)
