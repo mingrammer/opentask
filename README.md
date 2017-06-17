@@ -20,3 +20,4 @@ I'm so lazy. So I will publish a daily work list here
 - [2017.06.10 Sat](20170610.md) : :sunny: (1/1, 100%)
 - [2017.06.12 Mon](20170612.md) : :sunny: (2/2, 100%)
 - [2017.06.13 Tue](20170613.md) : :umbrella: (2/3, 66.66%)
+- [2017.06.17 Sat](20170617.md) : :zap: (1/3, 33.33%)
