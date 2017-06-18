@@ -11,8 +11,8 @@ I'm so lazy. So I will publish a daily work list here
 <br>
 
 ### Daily open task list
-- ​[2017.06.04 Sun](20170604.md) : :cloud: (2/3, 66.66%)
-- ​[2017.06.05 Mon](20170605.md) : :cloud: (2/3, 66.66%)
+- [2017.06.04 Sun](20170604.md) : :cloud: (2/3, 66.66%)
+- [2017.06.05 Mon](20170605.md) : :cloud: (2/3, 66.66%)
 - [2017.06.06 Tue](20170606.md) : :umbrella: (1/2, 50.00%) 
 - [2017.06.07 Wed](20170607.md) : :umbrella: (1/2, 50.00%)
 - [2017.06.08 Thu](20170608.md) : :umbrella: (1/2, 50.00%)
@@ -20,4 +20,4 @@ I'm so lazy. So I will publish a daily work list here
 - [2017.06.10 Sat](20170610.md) : :sunny: (1/1, 100%)
 - [2017.06.12 Mon](20170612.md) : :sunny: (2/2, 100%)
 - [2017.06.13 Tue](20170613.md) : :umbrella: (2/3, 66.66%)
-- [2017.06.17 Sat](20170617.md) : :zap: (1/3, 33.33%)
+- [2017.06.17 Sat](20170617.md) : :sunny: (3/3, 100%)
