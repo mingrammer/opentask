@@ -22,3 +22,4 @@ I'm so lazy. So I will publish a daily work list here
 - [2017.06.13 Tue](20170613.md) : :cloud: (2/3, 66.66%)
 - [2017.06.17 Sat](20170617.md) : :sunny: (3/3, 100%)
 - [2017.06.20 Tue](20170620.md) : :cloud: (2/3, 66.66%)
+- [2017.06.21 Wed](20170621.md) : :snowflake: (0/2, 0%)
